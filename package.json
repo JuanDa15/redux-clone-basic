@@ -1,0 +1,25 @@
+{
+  "name": "redux-basic-clon",
+  "version": "1.0.0",
+  "description": "basic redux clone copy",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanDa15/redux-clone-basic.git"
+  },
+  "keywords": [
+    "redux",
+    "clone",
+    "redux",
+    "basic"
+  ],
+  "author": "juan david osorio <@JuanDa15>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanDa15/redux-clone-basic/issues"
+  },
+  "homepage": "https://github.com/JuanDa15/redux-clone-basic#readme"
+}
