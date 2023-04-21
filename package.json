@@ -4,6 +4,7 @@
   "description": "basic redux clone copy",
   "main": "src/index.js",
   "scripts": {
+    "start": "ts-node src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/JuanDa15/redux-clone-basic/issues"
   },
-  "homepage": "https://github.com/JuanDa15/redux-clone-basic#readme"
+  "homepage": "https://github.com/JuanDa15/redux-clone-basic#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "redux": "^4.2.1"
+  }
 }
